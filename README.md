@@ -35,11 +35,11 @@ This is your escape from this nightmare!
 It will appear in a single room when you've cleared it; go near it to escape and win!
 
 # The enemies
-![Front.png](sprites/Front.png) ![Idle clown.png](sprites/Idle clown.png)
+![Front.png](sprites/Front.png) ![Idle clown.png](sprites/Idle_clown.png)
 
 These two are the enemies you're going to face in your journey.
 
-![Mega kick left.png](sprites/Mega kick left.png)
+![Mega kick left.png](sprites/Mega_kick_left.png)
 
 The **karateka** will chase you down, trying to hurt you.
 Sometimes, he will also try to perform a flying kick on you; beware of the sound he makes and the position he assumes before doing so, and when you see it, prepare to dodge!
@@ -66,6 +66,6 @@ Also, the enemies themselves adjust themselves using stats from each room you've
 Most of the sounds were produced by me myself in my room, probably scaring the neighbors in the process.
 The only exceptions are the applause sound (https://pixabay.com/sound-effects/search/applause/) and the womp womp (https://orangefreesounds.com/womp-womp/).
 
-The sprites for the enemies were made by my friend DreamCharmer (Instagram: @\_dream_charmer\_) or are royalty free images I am not required to cite.
+The sprites for the enemies were made by my friend DreamCharmer (Instagram: @ _dream_charmer _) or are royalty free images I am not required to cite.
 
 The Isaac-style font comes from https://moddingofisaac.com/mod/1701/team-meat-isaac_font, while the other one comes from https://justseeds.org/project/justseeds-open-type-project/.
