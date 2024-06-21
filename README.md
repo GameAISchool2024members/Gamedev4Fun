@@ -66,6 +66,6 @@ Also, the enemies themselves adjust themselves using stats from each room you've
 Most of the sounds were produced by me myself in my room, probably scaring the neighbors in the process.
 The only exceptions are the applause sound (https://pixabay.com/sound-effects/search/applause/) and the womp womp (https://orangefreesounds.com/womp-womp/).
 
-The sprites for the enemies were made by my friend DreamCharmer (Instagram: @\_dream_charmer\_) or are royalty free images I am not required to cite.
+The sprites for the enemies were made by my friend DreamCharmer (Instagram: @\_dream_charmer\_); all the other sprites are royalty free images I am not required to cite.
 
 The Isaac-style font comes from https://moddingofisaac.com/mod/1701/team-meat-isaac_font, while the other one comes from https://justseeds.org/project/justseeds-open-type-project/.
