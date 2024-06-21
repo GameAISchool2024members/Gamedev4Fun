@@ -11,13 +11,13 @@ void General_handler::initialize(bool final_room) {
     SDL_CreateWindowAndRenderer(800, 800, 0, &window, &renderer);
     sprite_map[WALL].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Brick_wall.jpg)"));
     sprite_map[EMPTY_BOX].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Yellow_texture.jpg)"));
-    sprite_map[CLOWN].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Idle clown.png)"));
+    sprite_map[CLOWN].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Idle_clown.png)"));
     sprite_map[CLOWN].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Throw.png)"));
     sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Front.png)"));
     sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Walk front 1.png)"));
     sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Walk front 2.png)"));
-    sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Mega kick right.png)"));
-    sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Mega kick left.png)"));
+    sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Mega_kick_right.png)"));
+    sprite_map[KARATEKA].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Mega_kick_left.png)"));
     sprite_map[PROTAGONIST].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Smile.png)"));
     sprite_map[PROTAGONIST_SHOT].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Orange_ball.png)"));
     sprite_map[ENEMY_SHOT].push_back(IMG_LoadTexture(renderer, R"(.\sprites\Blue_ball.png)"));
