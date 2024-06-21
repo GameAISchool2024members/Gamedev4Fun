@@ -32,7 +32,7 @@ The floor and each room are generated randomly, using a "The binding of Isaac"-s
 
 This is your escape from this nightmare!
 
-It will appear in a single room when you've cleared it; go near it to escape and win!
+It will appear in a single room when you've cleared it; reach it to escape and win!
 
 # The enemies
 ![](sprites/Front.png) ![](sprites/Idle_clown.png)
