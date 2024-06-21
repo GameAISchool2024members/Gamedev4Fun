@@ -8,7 +8,7 @@ A Smiling Nightmare answers this question exactly.
 
 You will play as a nice, cute smile trying to reach the stairs to get out of a weird basement.
 
-![Smile.png](sprites/Smile.png)
+![](sprites/Smile.png)
 
 But it's not going to be that easy!
 In each room you visit there are going to be enemies going for your head (especially considering you literally have nothing else...)
@@ -50,9 +50,9 @@ The **clown** instead won't try to reach you (even though touching him still hur
 Be careful, because sometimes he will go berserk and self-destruct!
 Beware of the histerical laughter he makes and the green texture he takes when doing so, or you're gonna go out with a blast, but not in a good way!
 
-![Throw.png](sprites/Throw.png)
+![](sprites/Throw.png)
 
-This, along with his low HP, make shooting the optimal strategy to face clowns.
+This, along with their low HP, make shooting the optimal strategy to face clowns.
 
 # Adaptive enemies
 Here's the fun part: the game actually adapts to you!
