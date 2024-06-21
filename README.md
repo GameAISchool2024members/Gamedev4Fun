@@ -19,7 +19,7 @@ You cannot pass walls and you won't be able to escape a room until you clear all
 To do so, you have two ways of dealing damage: pressing one of the directional arrows allows you to shoot a shot in that direction, which will damage the first enemy it collides with, or disappear if it hits a wall.
 Instead, if you hold the spacebar while pressing a directional arrow, you're going to perform a swing attack that damages all the enemies nearby; use it carefully, because even though it deals more damage than the shots its range is quite limited!
 
-In any moment you can check your current HP in the top left!
+In any moment you can check your current HP in the top left.
 
 Once you've cleared a room, you can reach one of the open borders to go to the next one; enemies won't respawn if you visit a room you've cleared already.
 
